@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing  Avatar component renders as expected 1`] = `ReactWrapper {}`;
+
+exports[`Testing  Avatar component renders snapshot as expected 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#d9e2e7",
+      "borderRadius": 45,
+      "borderWidth": 0.5,
+      "height": 45,
+      "justifyContent": "center",
+      "width": 45,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#1496bb",
+      }
+    }
+  >
+    H
+  </Text>
+</View>
+`;

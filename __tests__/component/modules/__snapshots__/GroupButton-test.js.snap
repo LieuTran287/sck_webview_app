@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing  GroupButton component renders as expected 1`] = `ReactWrapper {}`;
+
+exports[`Testing  GroupButton component renders snapshot as expected 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "maxHeight": 50,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#d2d2d2",
+        "flex": 1,
+        "justifyContent": "center",
+        "maxHeight": 50,
+        "minHeight": 50,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      numberOfLines={1}
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontSize": 14,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      BUTTON1
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#1496bb",
+        "flex": 1,
+        "justifyContent": "center",
+        "maxHeight": 50,
+        "minHeight": 50,
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      numberOfLines={1}
+      style={
+        Object {
+          "color": "#FFFFFF",
+          "fontSize": 14,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      BUTTON2
+    </Text>
+  </View>
+</View>
+`;

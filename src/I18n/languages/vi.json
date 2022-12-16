@@ -1,0 +1,20 @@
+{
+
+  "message_page": {
+    "title_page":"Tin Nhắn"
+  },
+  "about_page": {
+    "title_page": "Giới Thiệu"
+  },
+  "settings_page":{
+    "title_page":"Cài Đặt",
+    "change_theme":"Đổi theme",
+    "change_language":"Đổi ngôn ngữ",
+    "light_mode":"Chế độ thường",
+    "dark_mode":"Chế độ ban đêm",
+    "logout":"Đăng xuất"
+  },
+  "login_page":{
+    "login":"Đăng nhập"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "102653008168",
+    "firebase_url": "https://react-template-99dd0.firebaseio.com",
+    "project_id": "react-template-99dd0",
+    "storage_bucket": "react-template-99dd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102653008168:android:7c8fa1a4e21ef22c84981d",
+        "android_client_info": {
+          "package_name": "com.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102653008168-3i101fhkj7490df6ir878qu9vrhfva8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDTRy0w8RzJtJoeWGzwqLtw2yDhhhPV74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102653008168-3i101fhkj7490df6ir878qu9vrhfva8a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102653008168-c2ifkugh3tm3pp75ebodgm8en8gcvk7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactjs.native.template"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

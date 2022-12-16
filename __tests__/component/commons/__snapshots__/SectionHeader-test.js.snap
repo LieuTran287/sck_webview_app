@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing  SectionHeader component renders as expected 1`] = `ShallowWrapper {}`;
+
+exports[`Testing  SectionHeader component renders snapshot as expected 1`] = `
+<View
+  style={
+    Object {
+      "height": 45,
+      "justifyContent": "center",
+      "paddingLeft": 10,
+      "paddingRight": 10,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#1496bb",
+      }
+    }
+  >
+    Ex: SectionHeader
+  </Text>
+</View>
+`;

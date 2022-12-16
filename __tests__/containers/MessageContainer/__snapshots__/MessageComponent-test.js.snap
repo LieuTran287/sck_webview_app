@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing  MessageComponent component renders as expected 1`] = `ReactWrapper {}`;
+
+exports[`Testing  MessageComponent component renders snapshot as expected 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#333333",
+      }
+    }
+  >
+    message_page.title_page
+     
+  </Text>
+</View>
+`;
