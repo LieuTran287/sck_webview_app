@@ -495,7 +495,7 @@
 				DEVELOPMENT_TEAM = SCFJB9VVP9;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = ProjectName/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = BMSC;
+				INFOPLIST_KEY_CFBundleDisplayName = BankCredits;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -506,7 +506,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.toriti.zntc;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vietcredit.gds;
 				PRODUCT_NAME = ZntC;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -523,7 +523,7 @@
 				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = SCFJB9VVP9;
 				INFOPLIST_FILE = ProjectName/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = BMSC;
+				INFOPLIST_KEY_CFBundleDisplayName = BankCredits;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -534,7 +534,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.toriti.zntc;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vietcredit.gds;
 				PRODUCT_NAME = ZntC;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
