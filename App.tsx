@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 import WebView from "react-native-webview";
 function App(): JSX.Element {
-  const uriDefault = 'https://sck-web.poolata.com/'
+  const uriDefault = 'https://vaynhanh-mcredit.com/'
   const [uri, setUri] = useState(uriDefault)
   const webviewRef = useRef<any>();
 
