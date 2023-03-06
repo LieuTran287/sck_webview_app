@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tranl\\Documents\\webview-stock\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "com.webview1.app-mergeReleaseResources-20:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tranl\\.gradle\\caches\\transforms-3\\acc940f9d1e2fbe78507503786269365\\transformed\\appcompat-1.0.2\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\tranl\\.gradle\\caches\\transforms-3\\390fec0296bc36742fba54a420c04065\\transformed\\appcompat-1.4.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

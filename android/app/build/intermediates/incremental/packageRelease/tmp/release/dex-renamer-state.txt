@@ -1,4 +1,4 @@
-#Tue Nov 01 22:14:54 ICT 2022
-base.0=C\:\\Users\\tranl\\Documents\\webview-stock\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+#Wed Mar 01 14:09:08 ICT 2023
+base.0=/Users/admin/Desktop/working/sck/SCK_WebviewApp_main/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
